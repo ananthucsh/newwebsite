@@ -17,7 +17,7 @@ const AGENT = {
   name: "Ananth Shaji",
   title: "General Insurance Agent, Karunagappally",
   location: "Kollam, Kerala",
-  experience: "4 Decade+",
+  experience: "4 Years",
 
   languages: [
     "English",
